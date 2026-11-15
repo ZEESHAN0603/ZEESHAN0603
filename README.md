@@ -1,105 +1,153 @@
-<!-- ===================== HEADER ===================== -->
+<!-- PROFILE HEADER -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Zeeshan+Ahmed+Ali;AI+%26+Full-Stack+Developer;Building+useful+things+with+AI+%26+code" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2800&pause=850&color=38BDF8&center=true&vCenter=true&width=820&lines=Hey%2C+I'm+Zeeshan+Ahmed+Ali;AI+%26+Full-Stack+Developer;Building+AI-powered+software+that+solves+real+problems" alt="Typing introduction" />
 
 <p>
   <b>AI & Full-Stack Developer</b><br/>
-  I build practical software experiences by combining web technologies, automation, and applied AI.
+  Building intelligent applications, useful developer experiences, and practical software solutions.
 </p>
 
-<a href="https://github.com/ZEESHAN0603">
-  <img src="https://img.shields.io/badge/GitHub-ZEESHAN0603-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-</a>
-<a href="https://github.com/ZEESHAN0603?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-My%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-</a>
+<p>
+  <a href="https://github.com/ZEESHAN0603"><img src="https://img.shields.io/badge/GitHub- ZEESHAN0603-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/ZEESHAN0603?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+  <img src="https://img.shields.io/badge/Graduating-2027-7C3AED?style=for-the-badge" alt="Graduating 2027"/>
+</p>
 
 </div>
 
 ---
 
-## `whoami`
+## About Me
 
-- 🎓 B.Tech student in **Artificial Intelligence & Data Science** — graduating in **2027**.
-- 🧠 Interested in **Generative AI, LLM applications, RAG, and Agentic AI**.
-- 💻 Building with **Python, JavaScript, React, Node.js, APIs, and Supabase**.
-- ⚙️ Exploring workflow automation with **n8n** and practical AI integrations.
-- 🏆 **SIH 2025 Grand Finale Finalist** — Software Edition, as part of Team CodeBlazers.
-- 🌱 Focused on turning ideas into useful, well-built products.
+I'm a B.Tech **Artificial Intelligence & Data Science** student focused on building software that combines full-stack engineering, automation, and applied AI.
 
----
-
-## `tech.stack`
-
-### Languages & web
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nextjs,nodejs,express" alt="Languages and web technologies"/>
-</p>
-
-### AI, data & tools
-<p>
-  <img src="https://skillicons.dev/icons?i=supabase,postgres,git,github,vscode,postman,fastapi" alt="Tools and platforms"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/LLMs-4F46E5?style=for-the-badge" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge" alt="RAG"/>
-  <img src="https://img.shields.io/badge/Agentic%20AI-0891B2?style=for-the-badge" alt="Agentic AI"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-334155?style=for-the-badge" alt="REST APIs"/>
-</p>
+- 🧠 Exploring **Generative AI, LLMs, RAG, and Agentic AI**
+- 💻 Building with **Python, JavaScript, React, Node.js, and Supabase**
+- ⚙️ Working with APIs, backend systems, and **n8n** workflow automation
+- 🏆 **Smart India Hackathon 2025 – Grand Finale Finalist** (Software Edition), Team CodeBlazers
+- 🎯 Currently strengthening my skills in AI engineering and full-stack development
 
 ---
 
-## `selected.projects`
-
-| Project | What it is |
-|---|---|
-| [DEYSLA](https://github.com/ZEESHAN0603/Deysla-FL) | Freelance business website built with a modern full-stack web approach. |
-| [AI-Driven Healthcare Awareness Chatbot](https://github.com/ZEESHAN0603/AI-Driven-Health-Care-Awareness-Chatbot) | Healthcare awareness chatbot project. |
-| [CURA BOT](https://github.com/ZEESHAN0603/CURA_BOT) | Healthcare chatbot demo. |
-| [AI-Based Event Management App](https://github.com/ZEESHAN0603/AI-Based-Event-Mngt-Project-APP-) | AI-focused event management application. |
-| [DVein Internship Project](https://github.com/ZEESHAN0603/Dvein-PRJ) | Full-stack Java / Spring Boot internship project. |
-| [ZEES-COACH](https://github.com/ZEESHAN0603/ZEES-COACH) | Project repository. |
-
----
-
-## `recognition`
+## Technology Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-2025%20Grand%20Finale%20Finalist-2563EB?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Smart India Hackathon 2025 Grand Finale Finalist"/>
-  <p><b>Software Edition · Team CodeBlazers</b></p>
-  <p>Contributed to backend data handling with Supabase and workflow automation using n8n for the team's AI-driven healthcare chatbot solution.</p>
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" alt="Python, Java, JavaScript, TypeScript, HTML and CSS"/>
+
+**Frontend & Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi" alt="React, Next.js, Node.js, Express and FastAPI"/>
+
+**Data, AI & Developer Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb,git,github,vscode,postman" alt="Supabase, PostgreSQL, MongoDB, Git, GitHub, VS Code and Postman"/>
+<br/>
+<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/LLMs-4F46E5?style=for-the-badge" alt="LLMs"/>
+<img src="https://img.shields.io/badge/RAG-0284C7?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-0E7490?style=for-the-badge" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/REST%20APIs-334155?style=for-the-badge" alt="REST APIs"/>
+
 </div>
 
 ---
 
-## `github.stats`
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>DEYSLA</h3>
+      <p>A business website project with product, service, and company information.</p>
+      <a href="https://github.com/ZEESHAN0603/Deysla-FL">View repository →</a>
+    </td>
+    <td width="50%">
+      <h3>AI Healthcare Awareness Chatbot</h3>
+      <p>An AI-driven healthcare awareness chatbot project.</p>
+      <a href="https://github.com/ZEESHAN0603/AI-Driven-Health-Care-Awareness-Chatbot">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>CURA BOT</h3>
+      <p>A healthcare chatbot demonstration project.</p>
+      <a href="https://github.com/ZEESHAN0603/CURA_BOT">View repository →</a>
+    </td>
+    <td width="50%">
+      <h3>AI Event Management App</h3>
+      <p>An AI-focused event management application.</p>
+      <a href="https://github.com/ZEESHAN0603/AI-Based-Event-Mngt-Project-APP-">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>DVein – Full-Stack Java Internship</h3>
+      <p>Internship project built around Java and Spring Boot.</p>
+      <a href="https://github.com/ZEESHAN0603/Dvein-PRJ">View repository →</a>
+    </td>
+    <td width="50%">
+      <h3>ZEES-COACH</h3>
+      <p>Explore the project repository and its implementation.</p>
+      <a href="https://github.com/ZEESHAN0603/ZEES-COACH">View repository →</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Overview
 
 <div align="center">
   <img width="49%" src="./profile/stats.svg" alt="GitHub statistics"/>
-  <img width="49%" src="./profile/top-langs.svg" alt="Most used programming languages"/>
+  <img width="49%" src="./profile/top-langs.svg" alt="Most used languages"/>
 </div>
 
-<sub>Stats cards are generated daily by GitHub Actions and stored in this repository.</sub>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZEESHAN0603&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</div>
 
 ---
 
-## `currently.exploring`
+## Contribution Activity
 
-- Building stronger foundations in full-stack engineering.
-- Developing useful AI applications with LLMs, RAG, and automation.
-- Improving code quality, system design, and deployment skills.
+<div align="center">
+  <img src="./profile/snake.svg" alt="GitHub contribution graph animation"/>
+</div>
+
+---
+
+## Recognition
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-2025%20Grand%20Finale%20Finalist-2563EB?style=for-the-badge" alt="Smart India Hackathon 2025 Grand Finale Finalist"/>
+  <p><b>Software Edition · Team CodeBlazers</b></p>
+  <p>Contributed to backend data handling with Supabase and workflow automation using n8n.</p>
+</div>
+
+---
+
+## Currently Exploring
+
+- Building reliable full-stack applications and backend services
+- Developing LLM-powered applications with RAG and agentic workflows
+- Improving system design, code quality, and deployment practices
 
 ---
 
 <div align="center">
 
-### Let's connect through code.
+### Let's build something meaningful.
 
-<a href="https://github.com/ZEESHAN0603">
-  <img src="https://img.shields.io/badge/GitHub-Connect-111827?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub"/>
+<a href="https://github.com/ZEESHAN0603?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Work-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work"/>
 </a>
 
-<sub>Always learning. Always building.</sub>
+<br/><br/>
+<sub>Learn continuously · Build thoughtfully · Improve every day</sub>
 
 </div>
