@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/ZEESHAN0603"><img src="https://img.shields.io/badge/GitHub- ZEESHAN0603-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/ZEESHAN0603"><img src="https://img.shields.io/badge/GitHub-ZEESHAN0603-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://github.com/ZEESHAN0603?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
   <img src="https://img.shields.io/badge/Graduating-2027-7C3AED?style=for-the-badge" alt="Graduating 2027"/>
 </p>
@@ -107,9 +107,6 @@ I'm a B.Tech **Artificial Intelligence & Data Science** student focused on build
   <img width="49%" src="./profile/top-langs.svg" alt="Most used languages"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZEESHAN0603&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</div>
 
 ---
 
