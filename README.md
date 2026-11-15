@@ -9,7 +9,7 @@
 </p>
 
 <a href="https://github.com/ZEESHAN0603">
-  <img src="https://img.shields.io/badge/GitHub- ZEESHAN0603-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+  <img src="https://img.shields.io/badge/GitHub-ZEESHAN0603-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
 <a href="https://github.com/ZEESHAN0603?tab=repositories">
   <img src="https://img.shields.io/badge/Explore-My%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
@@ -76,13 +76,11 @@
 ## `github.stats`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZEESHAN0603&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZEESHAN0603&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most used languages"/>
+  <img width="49%" src="./profile/stats.svg" alt="GitHub statistics"/>
+  <img width="49%" src="./profile/top-langs.svg" alt="Most used programming languages"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ZEESHAN0603&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
-</div>
+<sub>Stats cards are generated daily by GitHub Actions and stored in this repository.</sub>
 
 ---
 
